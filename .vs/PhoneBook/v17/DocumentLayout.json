@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mohaymen\\TC\\PhoneBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{348942FA-5D93-4792-A00C-5CA1F1168DA6}|PhoneBook\\PhoneBook.csproj|d:\\mohaymen\\tc\\phonebook\\phonebook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{348942FA-5D93-4792-A00C-5CA1F1168DA6}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4850D23-C847-4594-BC7A-6F96C8A8CB16}|PhoneBookTest\\PhoneBookTest.csproj|d:\\mohaymen\\tc\\phonebook\\phonebooktest\\phonebooktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4850D23-C847-4594-BC7A-6F96C8A8CB16}|PhoneBookTest\\PhoneBookTest.csproj|solutionrelative:phonebooktest\\phonebooktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348942FA-5D93-4792-A00C-5CA1F1168DA6}|PhoneBook\\PhoneBook.csproj|d:\\mohaymen\\tc\\phonebook\\phonebook\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348942FA-5D93-4792-A00C-5CA1F1168DA6}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348942FA-5D93-4792-A00C-5CA1F1168DA6}|PhoneBook\\PhoneBook.csproj|d:\\mohaymen\\tc\\phonebook\\phonebook\\services\\phonebookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348942FA-5D93-4792-A00C-5CA1F1168DA6}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\services\\phonebookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348942FA-5D93-4792-A00C-5CA1F1168DA6}|PhoneBook\\PhoneBook.csproj|d:\\mohaymen\\tc\\phonebook\\phonebook\\data\\phonebookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348942FA-5D93-4792-A00C-5CA1F1168DA6}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\data\\phonebookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4850D23-C847-4594-BC7A-6F96C8A8CB16}|PhoneBookTest\\PhoneBookTest.csproj|d:\\mohaymen\\tc\\phonebook\\phonebooktest\\mysqltestcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4850D23-C847-4594-BC7A-6F96C8A8CB16}|PhoneBookTest\\PhoneBookTest.csproj|solutionrelative:phonebooktest\\mysqltestcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348942FA-5D93-4792-A00C-5CA1F1168DA6}|PhoneBook\\PhoneBook.csproj|d:\\mohaymen\\tc\\phonebook\\phonebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348942FA-5D93-4792-A00C-5CA1F1168DA6}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\mohaymen\\TC\\PhoneBook\\PhoneBook\\appsettings.json",
+              "RelativeDocumentMoniker": "PhoneBook\\appsettings.json",
+              "ToolTip": "D:\\mohaymen\\TC\\PhoneBook\\PhoneBook\\appsettings.json",
+              "RelativeToolTip": "PhoneBook\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T06:19:11.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\mohaymen\\TC\\PhoneBook\\PhoneBook\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Models\\Contact.cs",
+              "ToolTip": "D:\\mohaymen\\TC\\PhoneBook\\PhoneBook\\Models\\Contact.cs",
+              "RelativeToolTip": "PhoneBook\\Models\\Contact.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:30:01.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhoneBookContext.cs",
+              "DocumentMoniker": "D:\\mohaymen\\TC\\PhoneBook\\PhoneBook\\Data\\PhoneBookContext.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Data\\PhoneBookContext.cs",
+              "ToolTip": "D:\\mohaymen\\TC\\PhoneBook\\PhoneBook\\Data\\PhoneBookContext.cs",
+              "RelativeToolTip": "PhoneBook\\Data\\PhoneBookContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:57:42.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoneBookServices.cs",
+              "DocumentMoniker": "D:\\mohaymen\\TC\\PhoneBook\\PhoneBook\\Services\\PhoneBookServices.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Services\\PhoneBookServices.cs",
+              "ToolTip": "D:\\mohaymen\\TC\\PhoneBook\\PhoneBook\\Services\\PhoneBookServices.cs",
+              "RelativeToolTip": "PhoneBook\\Services\\PhoneBookServices.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBUAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:01:34.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\mohaymen\\TC\\PhoneBook\\PhoneBook\\Program.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Program.cs",
+              "ToolTip": "D:\\mohaymen\\TC\\PhoneBook\\PhoneBook\\Program.cs",
+              "RelativeToolTip": "PhoneBook\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:29:49.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MySqlTestContainer.cs",
+              "DocumentMoniker": "D:\\mohaymen\\TC\\PhoneBook\\PhoneBookTest\\MySqlTestContainer.cs",
+              "RelativeDocumentMoniker": "PhoneBookTest\\MySqlTestContainer.cs",
+              "ToolTip": "D:\\mohaymen\\TC\\PhoneBook\\PhoneBookTest\\MySqlTestContainer.cs",
+              "RelativeToolTip": "PhoneBookTest\\MySqlTestContainer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:10:33.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneBookTest.cs",
+              "DocumentMoniker": "D:\\mohaymen\\TC\\PhoneBook\\PhoneBookTest\\PhoneBookTest.cs",
+              "RelativeDocumentMoniker": "PhoneBookTest\\PhoneBookTest.cs",
+              "ToolTip": "D:\\mohaymen\\TC\\PhoneBook\\PhoneBookTest\\PhoneBookTest.cs",
+              "RelativeToolTip": "PhoneBookTest\\PhoneBookTest.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwCwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:06:33.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

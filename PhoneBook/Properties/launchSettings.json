@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PhoneBook": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
